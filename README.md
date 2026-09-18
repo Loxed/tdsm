@@ -68,28 +68,3 @@ In addition to the sprite sheet as a PNG image file with a transparent backgroun
 ### Save and load sprite data
 
 A character from a previously exported sprite sheet can be reloaded into TDSM by uploading its JSON metadata file, provided that the sprite style that produced the sheet is currently loaded into TDSM. [**[ screenshot ]**](https://raw.githubusercontent.com/jbunke/tdsm-art/refs/heads/master/_tdsm/assets/captures/reupload.gif)
-
-## Contribute
-
-* [Report a bug](https://github.com/jbunke/tdsm/issues/new?template=bug_report.md)
-* [Request a feature](https://github.com/jbunke/tdsm/issues/new?template=feature_request.md)
-
-## License
-
-*TDSM* is distributed under an [end-user license agreement](./LICENSE) (EULA).
-
-### You may...
-
-* Use *TDSM* for personal or commercial projects
-* Clone the *TDSM* source code and privately modify it to suit your needs
-* Distribute or sell *TDSM* sprite styles consisting of original work
-
-### You may not...
-
-* Distribute or sell copies of *TDSM* (whether modified or not)
-* Use *TDSM* for NFT or crypto-related projects
-* Use *TDSM* to train generative AI models
-
-> **Note:**
-> 
-> Some sprite styles featured in TDSM are based on established IPs. The use of sprites in such styles in commercial projects (fan games, etc.) may infringe upon the copyright of the associated copyright holder.
